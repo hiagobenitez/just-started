@@ -10,6 +10,10 @@ const GlobalStyles = createGlobalStyle`
       -moz-osx-font-smoothing: grayscale;
   
     }
+
+    body {
+      background: #f5f5f5;
+    }
   
   `;
 
